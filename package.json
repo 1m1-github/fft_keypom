@@ -1,0 +1,22 @@
+{
+  "name": "fft_keypom",
+  "version": "0.0.1",
+  "description": "Fair Fungible Token = Fungible Token without Credit Risk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1m1-github/fft_keypom.git"
+  },
+  "author": "1m1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1m1-github/fft_keypom/issues"
+  },
+  "homepage": "https://github.com/1m1-github/fft_keypom#readme",
+  "dependencies": {
+    "@keypom/core": "^1.0.2"
+  }
+}
